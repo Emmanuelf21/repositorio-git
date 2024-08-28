@@ -8,8 +8,8 @@
 
 Texto normal. Neste repositório vamos ver os suuper-poderes de versionamento
 
-#Exemplo inserindo uma imagem
+# Exemplo inserindo uma imagem
 
 ![alinhamentos d&d](https://cdn.pixabay.com/photo/2024/02/26/19/39/monochrome-image-8598798_1280.jpg)
 
-[site da cisco](https://www.cisco.com/c/pt_br/index.html)
+[cisco](https://www.cisco.com/c/pt_br/index.html)
