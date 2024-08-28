@@ -14,4 +14,4 @@ Texto normal. Neste repositório vamos ver os suuper-poderes de versionamento
 
 💻 [cisco](https://www.cisco.com/c/pt_br/index.html)
 
-[Bing](https://www.bing.com/?cc=br)(![imagem google](https://t.ctcdn.com.br/lvns56iaSMyHvyTur4JeYS_NYeY=/i606944.png))
+[![imagem google](https://t.ctcdn.com.br/lvns56iaSMyHvyTur4JeYS_NYeY=/i606944.png)](https://www.bing.com/?cc=br)
